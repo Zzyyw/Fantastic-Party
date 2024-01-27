@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    border:10px;
+    border-radius:20px;
+    background-color: aqua;
+    text-decoration: none;
+    padding:10px;
+}
+
+.Fantastic {
+    background-color: aquamarine;
+    color: cadetblue;
+    border-radius:20px;
+    text-align:center;
+}
+
+.contacts {
+    border: 10px solid pink;
+}
+
+footer a {
+    text-decoration:none;
+}
+
+header a {
+    text-decoration:none;
+}
+
+nav {
+    background-color: green;
+    color:white;
+    border-radius:20px;
+    padding:10px;
+
+}
+
+main a {
+    color:white;
+}
+
+nav a {
+    padding:30px;
+}
+
+.items {
+    border:20px solid navajowhite;
+    background-color: navajowhite;
+}
+
+.discount {
+    color:blue;
+}
